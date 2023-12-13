@@ -3,7 +3,7 @@
 Results-driven <b>data science</b> and innovative thinker, adept at rapid problem-solving with attention to detail and creative solutions. As a collaborative leader, I excel in complex projects with a consulting approach, leveraging strong mathematical and statistical skills. Proficient in ML, NLP, cloud and deep learning. A quick learner with a logical approach to finding optimal solutions, I am committed to pushing the boundaries of innovation in the field.
 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FFE801?logo=hackthebox&logoColor=black&style=flat)](https://hannahtech.github.io/Portfolio/)    [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white&style=flat)](https://www.kaggle.com/iamheny)    [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat)](mailto:hannah.ai.arch@gmail.com)    [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white&style=flat)](https://leetcode.com/user5517BE/)    [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/hannahai/)    [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&style=flat)](https://github.com/HannahTech/)    
+[![Portfolio](https://img.shields.io/badge/Website-FFE801?logo=hackthebox&logoColor=black&style=flat)](https://hannahtech.github.io/Portfolio/)    [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white&style=flat)](https://www.kaggle.com/iamheny)    [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat)](mailto:hannah.ai.arch@gmail.com)    [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white&style=flat)](https://leetcode.com/user5517BE/)    [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/hannahai/)    [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&style=flat)](https://github.com/HannahTech/)    
 
 <b>TOOLS</b> 
 
@@ -18,7 +18,7 @@ Results-driven <b>data science</b> and innovative thinker, adept at rapid proble
 
 ..................................................................................................................................................................
 
-<b>Top Repositories</b> 🖥️
+<b>TOP REPOSITORY</b> 🖥️
 
 [![Full-Stack-Recommendation](https://github-readme-stats.vercel.app/api/pin/?username=HannahTech&repo=Full-Stack-Recommendation)](https://github.com/HannahTech/Full-Stack-Recommendation)
 
